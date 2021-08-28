@@ -74,5 +74,3 @@ app.listen(process.env.PORT || 3000, function () {
   console.log("Server started Successfuly");
 });
 
-// bce75578afaff43eb7207dfb0fcc4d6c - us5;
-// d0d865c582;
